@@ -2,7 +2,7 @@
 
 🚀 **AI Engineer | Data Scientist | Machine Learning Enthusiast**  
 
-I’m passionate about building intelligent systems that solve real-world problems. My expertise lies in **Computer Vision, Natural Language Processing (NLP), and Transformer models**. I enjoy exploring cutting-edge AI techniques and applying them to impactful projects.  
+I’m passionate about building intelligent systems that solve real-world problems. My expertise lies in **Computer Vision, Data Science, Natural Language Processing (NLP), and Transformer models**. I enjoy exploring cutting-edge AI techniques and applying them to impactful projects.  
 
 ---
 
