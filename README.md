@@ -61,25 +61,24 @@ Results-driven AI Engineer with **9+ months of hands-on experience** building pr
 ## 🚀 Featured Projects  
 
 ### 🧠 **Advanced Computational Techniques for Early Alzheimer's Diagnosis** *(FYP 2024-2025)*
-[![Research](https://img.shields.io/badge/Research-IEEE_Submission-blue?style=flat-square)](https://github.com/muhammadshahmirzaman)
 
-- Leading **4-member team** developing AI model using **5,000+ MRI scans**
+- Leading **3-member team** developing AI model using **5,000+ MRI scans**
 - Applied **KPCA** for dimensionality reduction (**65% reduction**, **98% variance preserved**)
-- Achieved **91% classification accuracy** with custom 8-layer CNN (**0.92 AUC-ROC**)
+- Achieved good classification accuracy** with custom 4-layer CNN (**0.723 AUC-ROC**)
 - Targeting impact on **6.7M+ global Alzheimer's patients**
-- 📄 Preparing manuscript for **IEEE conference submission**
+
 
 ### 🤖 **Multi-LLM Ensemble System with Reinforcement Learning** *(2025)*
-- Built production-ready ensemble integrating **OPT-125M, Falcon-7B, DistilGPT-2**
+- Built production-ready ensemble integrating **OPT-125M, Falcon-7B**
 - Implemented **PPO** and **Knowledge Transfer Protocol**
-- Improved response coherence by **42%**
-- Reduced inference latency by **55%** while maintaining **96% accuracy**
+- Improved response coherence 
+- Reduced inference latency while maintaining 
 - 4-bit quantization for flexible GPU/CPU deployment
 
 ### 📝 **Text Summarizer Using Transformers** *(2025)*
-- Fine-tuned **T5-base** on CNN/DailyMail dataset (**300K+ articles**)
-- Achieved **40.2 ROUGE-L score**
-- Processing speed: **1,000+ documents/hour**
+- Fine-tuned **T5-base** on CNN/DailyMail dataset 
+
+- Achieved **Good ROUGE-L score**
 
 ### 🏠 **House Price Prediction System**
 - Developed predictive models using **Random Forest** and **Gradient Boosting**
