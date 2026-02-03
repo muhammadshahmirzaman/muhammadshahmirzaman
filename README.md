@@ -2,8 +2,7 @@
 
 🚀 **AI/ML Engineer | Data Scientist | Deep Learning Specialist | LLM Expert**  
 
-Results-driven AI Engineer with **9+ months of hands-on experience** building production-ready AI systems. I specialize in **Computer Vision, Natural Language Processing (NLP), and Deep Learning**, with a proven track record of deploying scalable ML pipelines using **PyTorch, Transformers, and ensemble LLM systems**. Passionate about leveraging cutting-edge AI to solve real-world problems with measurable impact.
-
+AI Engineer driven by results with 9+ months of hands-on experience in Computer Vision, Natural Language Processing, and Deep Learning. Specialized in building and deploying production-ready AI systems using PyTorch, Transformers, and ensemble large language models (LLMs). Proven track record of designing and implementing scalable machine learning pipelines, including reinforcement learning optimization and large-scale computer vision solutions. Strong expertise in end-to-end AI solution development, model deployment, and distributed training across real-world applications.
 ---
 
 ## 🎯 What I Do
