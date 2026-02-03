@@ -128,11 +128,10 @@ AI Engineer driven by results with 9+ months of hands-on experience in Computer 
 
 ## 💡 Fun Facts
 
-- 🔬 Currently researching **early Alzheimer's diagnosis** with **91% accuracy**
-- 🚀 Reduced ML deployment time from **4 hours to 45 minutes**
-- 🎯 Processed **10,000+ surveillance frames daily** with CV pipelines
-- 📈 Improved chatbot accuracy by **35%** using ensemble LLMs
-- ⚡ Built systems serving **500+ daily users**
+- 🔬 Researched **early Alzheimer's diagnosis** with **91% accuracy**
+- 🚀 Reduced ML deployment time from **Many hours to almost 2 hours**
+- 🎯 Processed **Surveillance frames daily** with CV pipelines
+- 📈 Worked on improving chatbot accuracy using ensemble LLMs
 
 ---
 
