@@ -10,7 +10,7 @@ Results-driven AI Engineer with **9+ months of hands-on experience** building pr
 
 - 🧠 Build **production-ready AI systems** with quantifiable business impact
 - 🤖 Develop **ensemble LLM solutions** with reinforcement learning optimization  
-- 👁️ Create **Computer Vision applications** processing 10,000+ frames daily
+- 👁️ Create **Computer Vision applications** processing huge number of frames daily
 - 📊 Design **scalable ML pipelines** with distributed training and deployment
 - 🔬 Research **early disease diagnosis** using advanced computational techniques
 
