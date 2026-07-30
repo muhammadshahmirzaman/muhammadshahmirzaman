@@ -1,32 +1,34 @@
 # 👋 Hi, I'm Muhammad Shahmir Zaman  
 
-🚀 **AI/ML Engineer | Data Scientist | Deep Learning Specialist | LLM Expert**  
+🚀 **AI Engineer | Data Scientist | Computer Vision & Deep Learning Specialist**  
 
-AI Engineer driven by results with 9+ months of hands-on experience in Computer Vision, Natural Language Processing, and Deep Learning. Specialized in building and deploying production-ready AI systems using PyTorch, Transformers, and ensemble large language models (LLMs). Proven track record of designing and implementing scalable machine learning pipelines, including reinforcement learning optimization and large-scale computer vision solutions. Strong expertise in end-to-end AI solution development, model deployment, and distributed training across real-world applications.
+Result-driven AI Engineer with hands-on experience in Computer Vision, Advanced Data Science, and Deep Learning architectures. Specialized in engineering algorithmic pipelines, sequence modeling frameworks, and optimization networks using PyTorch, Transformers, and reinforcement learning strategies. Proven record of structuring complex empirical data distributions, training custom vision models, and researching advanced computational architectures for early disease diagnosis. Strong expertise in data curation, model optimization, and feature engineering across research-intensive and real-world workflows.
+
 ---
 
 ## 🎯 What I Do
 
-- 🧠 Build **production-ready AI systems** with quantifiable business impact
-- 🤖 Develop **ensemble LLM solutions** with reinforcement learning optimization  
-- 👁️ Create **Computer Vision applications** processing huge number of frames daily
-- 📊 Design **scalable ML pipelines** with distributed training and deployment
-- 🔬 Research **early disease diagnosis** using advanced computational techniques
+- 🧠 **Design Algorithmic Systems** with focus on rigorous machine learning architecture and dataset engineering.
+- 🤖 **Develop Sequence & Language Solutions** leveraging multi-LLM networks optimized via reinforcement learning paradigms.
+- 👁️ **Build Advanced Computer Vision Pipelines** utilizing state-of-the-art framework architectures for multi-frame object tracking and segmentation.
+- 📊 **Structure End-to-End Data Science Paradigms** prioritizing robust feature engineering, statistical evaluation, and analytical integrity.
+- 🔬 **Research Deep Learning Architectures** to address complex biomedical challenges and early diagnostic classifications.
 
 ---
 
-## 💼 Professional Experience  
+## 💼 Research & Professional Experience  
 
 ### 🔹 **Trainee AI Software Engineer** – QBS Co *(Sep 2025 – Present)*
-- Engineered **DragGAN-based image manipulation system**, reducing manual editing time by **60%** for 500+ daily tasks
-- Architected **ensemble NLP system** integrating 3+ LLMs with RL, improving response accuracy by **35%** and reducing hallucination by **28%**
-- Developed **CV solutions** achieving **92% accuracy** in customer density analysis and **94% precision** in parking detection
-- Automated **15+ ML workflows** using Lightning AI, cutting deployment time from 4 hours to **45 minutes**
+- Engineered an optimization-based generative image framework using PyTorch, developing advanced pixel-latent algorithms to compress manual preprocessing workflows.
+- Designed a multi-LLM ensemble system incorporating **Proximal Policy Optimization (PPO)** reinforcement learning paradigms to mathematically optimize response coherence and mitigate hallucination anomalies.
+- Constructed computer vision and data intelligence pipelines for spatial analytics, implementing custom configurations for **object detection, instance segmentation, and pose estimation** via YOLO and OpenCV to isolate trend vectors.
+- Automated and standardized deep learning training workflows using the **Lightning AI** framework to mitigate experimental configuration drift.
 
 ### 🔹 **AI Engineer** – Intelik *(Jun 2025 – Sep 2025)*  
-- Delivered **8+ end-to-end AI solutions** (OCR: **95% accuracy**, NLP, Data Science) for 5 enterprise clients
-- Leveraged **GPT-4, Claude, and Llama-2** for production deployments
-- Achieved **100% on-time delivery** and **25% increase** in client retention through direct C-suite collaboration
+- Formulated algorithmic architectures spanning **Optical Character Recognition (OCR)**, sequence modeling, and exploratory data analysis (EDA) using specialized transformer frameworks (GPT, Claude, Llama).
+- Conducted statistical modeling, data cleaning, and feature extraction parameters across large-scale text arrays to optimize semantic retrieval.
+- Architected structural document intelligence layouts using **LayoutLMv3**, improving spatial feature mapping and multi-format semantic parsing.
+- Managed collaborative experimentation baselines across comprehensive data configurations, improving formal technical documentation standards.
 
 ---
 
@@ -37,70 +39,63 @@ AI Engineer driven by results with 9+ months of hands-on experience in Computer 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**AI/ML Frameworks:**  
-`PyTorch` • `TensorFlow` • `LightningAI` • `Scikit-Learn` • `Hugging Face Transformers` • `PaddlePaddle`
+**Data Science & Deep Learning:**  
+`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-Learn` • `Feature Engineering` • `Dimensionality Reduction` • `Statistical Modeling` • `EDA`
 
-**LLM & NLP:**  
-`LangChain` • `LangGraph` • `CrewAI` • `LayoutLMv3` • `BERT` • `GPT` • `Llama` • `RNN` • `LSTM`
+**AI & ML Frameworks:**  
+`PyTorch` • `LightningAI` • `TensorFlow` • `Hugging Face Transformers` • `PaddlePaddle` • `PaddleOCR`
 
-**Computer Vision:**  
-`YOLO (v5-v8)` • `OpenCV` • `MediaPipe` • `FFmpeg` • `CNN` • `Swin Transformer` • `ResNet`
+**Computer Vision Engineering:**  
+`YOLO (v5-v8)` • `OpenCV` • `MediaPipe` • `FFmpeg` • `CNN` • `Swin Transformer` • `ResNet` • `Image Segmentation` • `Object Tracking`
 
-**Data Science:**  
-`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Plotly` • `Jupyter`
+**Sequence Models & NLP:**  
+`LayoutLMv3` • `LangChain` • `LangGraph` • `CrewAI` • `BERT` • `GPT` • `Llama` • `Reinforcement Learning (PPO)`
 
-**DevOps & Cloud:**  
-`Docker` • `AWS (EC2, S3, VPC, ECS)` • `CI/CD` • `Linux`
-
-**Web Development:**  
-`Django` • `FastAPI` • `Flask` • `REST APIs` • `Git` • `GitHub`
+**Development Tooling:**  
+`Git` • `GitHub` • `Cursor` • `VS Code` • `Linux Environments` • `gRPC`
 
 ---
 
 ## 🚀 Featured Projects  
 
 ### 🧠 **Advanced Computational Techniques for Early Alzheimer's Diagnosis** *(FYP 2024-2025)*
+- **Supervised by Dr. Nasir ud Din (FAST-NUCES)**, led a 3-member research collective developing deep learning workflows using **5,000+ structural MRI scans**.
+- Applied **Kernel Principal Component Analysis (KPCA)** for feature compression, reducing computational complexity by 65% while preserving 98% of cumulative variance.
+- Achieved strong classification generalization using custom convolutional neural network (CNN) configurations, verifying a baseline of **0.723 AUC-ROC**.
 
-- Leading **3-member team** developing AI model using **5,000+ MRI scans**
-- Applied **KPCA** for dimensionality reduction (**65% reduction**, **98% variance preserved**)
-- Achieved good classification accuracy** with custom 4-layer CNN (**0.723 AUC-ROC**)
-- Targeting impact on **6.7M+ global Alzheimer's patients**
+### 🚗 **Intelligent Abandoned Object Detection Framework** *(2025)*
+- Authored a spatial tracking architecture combining real-time object detection and instance segmentation algorithms to identify unmonitored elements in high-density indoor settings.
+- Formulated a **hybrid centroid-based tracking algorithm** mapping Intersection over Union (IoU) metrics with Euclidean distances paired with a deterministic state-ownership classifier.
+- Programmed a custom **Locked Zone spatial suppression layer** utilizing baseline filtering to eliminate false-positive alert distributions.
 
+### 🤖 **Multi-Agent LLM Reinforcement Learning Pipeline** *(2025)*
+- Designed a multi-agent orchestration setup embedding OPT-125M and Falcon-7B governed by a PPO-based reward topology and an integrated Knowledge Transfer Protocol.
+- Applied programmatic **4-bit quantization** protocols to weights and optimized execution stacks to minimize processing latencies across highly constrained CPU/GPU hardware boundaries.
 
-### 🤖 **Multi-LLM Ensemble System with Reinforcement Learning** *(2025)*
-- Built production-ready ensemble integrating **OPT-125M, Falcon-7B**
-- Implemented **PPO** and **Knowledge Transfer Protocol**
-- Improved response coherence 
-- Reduced inference latency while maintaining 
-- 4-bit quantization for flexible GPU/CPU deployment
+### 🏠 **House Price Prediction — End-to-End Data Science Pipeline**
+- Developed a robust regression framework using **Random Forest** and **Gradient Boosting (XGBoost)** models, achieving a verification score of **R² = 0.89** on held-out test distributions.
+- Executed comprehensive feature engineering, missing value imputation, multi-collinearity checks, and cross-validation protocols to optimize predictive capability.
 
 ### 📝 **Text Summarizer Using Transformers** *(2025)*
-- Fine-tuned **T5-base** on CNN/DailyMail dataset 
+- Fine-tuned **T5-base** architectures on the CNN/DailyMail text corpus to optimize abstractive sequence-to-sequence generation, employing ROUGE-L metrics to benchmark quality.
 
-- Achieved **Good ROUGE-L score**
-
-### 🏠 **House Price Prediction System**
-- Developed predictive models using **Random Forest** and **Gradient Boosting**
-- Achieved **R² score of 0.89** on test data
-- Deployed with **Django REST API**
-
-### 🚗 **Wheels on Deals - Car Recommendation Engine**
-- Implemented using **C++ data structures** (Quick Sort, Binary Trees, Hashing)
-- Optimized search algorithms for **O(log n)** complexity
+### 🏎️ **Wheels on Deals - Car Recommendation Engine**
+- Implemented a computational search and recommendation framework using **C++ core data structures** (Quick Sort, Binary Trees, Hashing).
+- Optimized search lookup complexities to target efficient **O(log n)** mathematical execution.
 
 ---
 
 ## 🎓 Education  
 
 **Bachelor of Science in Computer Science** – FAST-NUCES, Karachi *(2021 – 2025)*  
-**GPA:** 3.5/4.0  
-**Relevant Coursework:** Data Structures & Algorithms, Machine Learning, Deep Learning, AI, NLP, Computer Vision, Cloud Computing
+**CGPA:** 2.69 / 4.00  
+**Relevant Coursework:** Applied Statistics, Data Science, Data Structures & Algorithms, Analysis of Algorithms, Machine Learning, Deep Learning, Artificial Intelligence, Natural Language Processing, Computer Vision
 
 ---
 
 ## 📜 Certifications  
 
-- 🏅 **Foundations of Data Science** – Coursera (2024)  
+- 🏅 **Foundations of Data Science** – Coursera / Google (2024)  
   [Verify Credential](https://drive.google.com/file/d/10whDACyGSWYjnc9w-gViAkWomP-Xu1Lu/view?usp=drive_link)
 
 ---
@@ -116,7 +111,7 @@ AI Engineer driven by results with 9+ months of hands-on experience in Computer 
 
 <p align="left">
 <a href="mailto:shahmirmuhammad3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.linkedin.com/in/muhammad-shahmir-zaman-13185522b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://linkedin.com/in/muhammad-shahmir-zaman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/muhammadshahmirzaman"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
@@ -126,18 +121,9 @@ AI Engineer driven by results with 9+ months of hands-on experience in Computer 
 
 ---
 
-## 💡 Fun Facts
-
-- 🔬 Researched **early Alzheimer's diagnosis** with **91% accuracy**
-- 🚀 Reduced ML deployment time from **Many hours to almost 2 hours**
-- 🎯 Processed **Surveillance frames daily** with CV pipelines
-- 📈 Worked on improving chatbot accuracy using ensemble LLMs
-
----
-
 <div align="center">
-  
-### ✨ *"Building intelligent systems that make a measurable difference"* ✨
+
+### ✨ *"Building intelligent systems through mathematical modeling and empirical rigor"* ✨
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=muhammadshahmirzaman.muhammadshahmirzaman)
 
