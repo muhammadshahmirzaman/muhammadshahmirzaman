@@ -88,7 +88,6 @@ Result-driven AI Engineer with hands-on experience in Computer Vision, Advanced 
 ## 🎓 Education  
 
 **Bachelor of Science in Computer Science** – FAST-NUCES, Karachi *(2021 – 2025)*  
-**CGPA:** 2.69 / 4.00  
 **Relevant Coursework:** Applied Statistics, Data Science, Data Structures & Algorithms, Analysis of Algorithms, Machine Learning, Deep Learning, Artificial Intelligence, Natural Language Processing, Computer Vision
 
 ---
