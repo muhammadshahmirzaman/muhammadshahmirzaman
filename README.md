@@ -18,7 +18,7 @@ Result-driven AI Engineer with hands-on experience in Computer Vision, Advanced 
 
 ## 💼 Research & Professional Experience  
 
-### 🔹 **Trainee AI Software Engineer** – QBS Co *(Sep 2025 – Present)*
+### 🔹 **AI Software Engineer** – QBS Co *(Sep 2025 – Present)*
 - Engineered an optimization-based generative image framework using PyTorch, developing advanced pixel-latent algorithms to compress manual preprocessing workflows.
 - Designed a multi-LLM ensemble system incorporating **Proximal Policy Optimization (PPO)** reinforcement learning paradigms to mathematically optimize response coherence and mitigate hallucination anomalies.
 - Constructed computer vision and data intelligence pipelines for spatial analytics, implementing custom configurations for **object detection, instance segmentation, and pose estimation** via YOLO and OpenCV to isolate trend vectors.
