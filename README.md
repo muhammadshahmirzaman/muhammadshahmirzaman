@@ -115,8 +115,6 @@ Result-driven AI Engineer with hands-on experience in Computer Vision, Advanced 
 </p>
 
 📧 **Email:** shahmirmuhammad3@gmail.com  
-📍 **Location:** Karachi, Pakistan  
-📱 **Phone:** +92 317 2386373
 
 ---
 
