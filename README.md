@@ -116,7 +116,7 @@ A real-time surveillance pipeline for detecting unattended objects and associati
 
 The system is designed for surveillance environments where an object must be distinguished between normal possession and potentially abandoned status.
 
-🔗 **[View Repository]([https://github.com/muhammadshahmirzaman](https://github.com/muhammadshahmirzaman/Real-Time-Abandoned-Object-Detection-Tracking))**
+🔗 **[View Repository](https://github.com/muhammadshahmirzaman/Real-Time-Abandoned-Object-Detection-Tracking)**
 
 ---
 
