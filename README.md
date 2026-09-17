@@ -139,7 +139,7 @@ Worked as part of a research team on a deep-learning pipeline for Alzheimer's di
 
 The project achieved a baseline **0.723 ROC-AUC** using a custom CNN.
 
-🔗 **[View Repository](https://github.com/muhammadshahmirzaman/Alzheimer-s-Detection)**
+🔗 **[View Repository](https://github.com/muhammadshahmirzaman/Alzheimer-detection-using-MRI-images)**
 
 ---
 
@@ -157,7 +157,7 @@ An abstractive text-summarization project using a fine-tuned T5 model.
 - Text preprocessing
 - ROUGE-based evaluation
 
-🔗 **[View Repository](https://github.com/muhammadshahmirzaman)**
+🔗 **[View Repository]([https://github.com/muhammadshahmirzaman](https://github.com/muhammadshahmirzaman/Text_Summarizer))**
 
 ---
 
