@@ -161,35 +161,6 @@ An abstractive text-summarization project using a fine-tuned T5 model.
 
 ---
 
-## ⚙️ End-to-End MLOps Pipeline
-
-**Python · Machine Learning · Docker · MLOps**
-
-An end-to-end machine-learning workflow covering the major stages of an ML lifecycle.
-
-### Pipeline areas
-
-- Data ingestion
-- Data preprocessing
-- Model training
-- Experiment workflow
-- Model deployment
-- Reproducible execution
-
-🔗 **[View Repository](https://github.com/muhammadshahmirzaman)**
-
----
-
-## 🔬 Django Research Assistant
-
-**Python · Django · NLP**
-
-A Django-based research-assistant application designed to help users work with research-oriented information and workflows.
-
-🔗 **[View Repository](https://github.com/muhammadshahmirzaman)**
-
----
-
 # 🛠️ Technical Skills
 
 ## Programming
