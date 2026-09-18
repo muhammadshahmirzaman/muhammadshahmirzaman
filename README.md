@@ -157,7 +157,7 @@ An abstractive text-summarization project using a fine-tuned T5 model.
 - Text preprocessing
 - ROUGE-based evaluation
 
-🔗 **[View Repository]([https://github.com/muhammadshahmirzaman](https://github.com/muhammadshahmirzaman/Text_Summarizer))**
+🔗 **[View Repository](https://github.com/muhammadshahmirzaman/Text_Summarizer)**
 
 ---
 
